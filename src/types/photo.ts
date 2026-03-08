@@ -4,6 +4,6 @@ export interface Photo {
     alt: string,
     src: {
         large: string,
-        origin: string
+        original: string
     }
 }
